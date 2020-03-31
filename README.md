@@ -15,3 +15,7 @@ Proyecto para la clase de "Laboratorio de Sistemas Digitales"
 [Desiño](https://github.com/Miguelelizondov/FullAdderSubtractor-/blob/master/PrimerParcial_LabAvanzados.vhdl)
 
 [TestBench](https://github.com/Miguelelizondov/FullAdderSubtractor-/blob/master/testbench_addsub.vhdl)
+
+## Esquemático
+
+[Logisim Circuito](https://github.com/Miguelelizondov/FullAdderSubtractor-/blob/master/FullAdder.circ)
