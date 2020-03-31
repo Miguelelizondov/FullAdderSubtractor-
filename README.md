@@ -12,6 +12,6 @@ Proyecto para la clase de "Laboratorio de Sistemas Digitales"
 
 ## Codigo 
 
-[Desiño] https://github.com/Miguelelizondov/FullAdderSubtractor-/blob/master/PrimerParcial_LabAvanzados.vhdl
+[Desiño](https://github.com/Miguelelizondov/FullAdderSubtractor-/blob/master/PrimerParcial_LabAvanzados.vhdl)
 
-[TestBench] https://github.com/Miguelelizondov/FullAdderSubtractor-/blob/master/testbench_addsub.vhdl
+[TestBench](https://github.com/Miguelelizondov/FullAdderSubtractor-/blob/master/testbench_addsub.vhdl)
